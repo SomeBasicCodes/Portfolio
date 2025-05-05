@@ -1,0 +1,21 @@
+.container{
+    width: 800px;
+    margin:0 auto;
+    padding:20px;
+    border: 1px solid #ffffff;
+}
+button{
+    padding: 8px 10px;
+    background-color: #000000;
+    color:white;
+    border: none;
+    cursor: pointer;
+    margin:2px
+}
+#answers{
+    display:flex;
+    flex-direction: column
+}
+#submit{
+    display:none
+}
